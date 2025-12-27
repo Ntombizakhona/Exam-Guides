@@ -82,3 +82,13 @@ Learn the basics. Refresh the fundamentals. Build the foundation that unlocks ev
 
 ## Additional Resources:
 [AWS Certified Cloud Practitioner (CLF-C02) Exam Guide](https://d1.awsstatic.com/training-and-certification/docs-cloud-practitioner/AWS-Certified-Cloud-Practitioner_Exam-Guide.pdf)
+
+# The Original
+
+**Blog:** [Ntombizakhona Mabaso](https://dev.to/ntombizakhona)
+<br>
+**Article Link:** [Cloud Practitioner Exam Guide](https://dev.to/aws-builders/cloud-practitioner-exam-guide-243h)
+<br>
+Originally Published by [Ntombizakhona Mabaso](https://dev.to/ntombizakhona)
+<br>
+**04 November 2025**
