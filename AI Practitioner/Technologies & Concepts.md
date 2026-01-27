@@ -208,8 +208,8 @@
 #### 4.3 **Bias/Variance Effects**
 | Condition | Result | Impact |
 |-----------|--------|--------|
-| **High Bias** | Underfitting | Too simple; poor performance overall |
-| **High Variance** | Overfitting | Too sensitive to training data; poor generalization |
+| **High Bias** | Underfitting | Too simple, poor performance overall |
+| **High Variance** | Overfitting | Too sensitive to training data, poor generalization |
 | **Subgroup Impact** | Performance gaps | Different outcomes across demographic groups |
 
 #### 4.4 AWS Tools for Responsible AI
@@ -241,7 +241,7 @@
 | **Encryption** | At rest and in transit |
 | **AWS PrivateLink** | Private connectivity to services |
 | **Amazon Macie** | Discover sensitive data in S3 |
-| **Shared Responsibility Model** | AWS secures cloud; you secure configs/data/apps |
+| **Shared Responsibility Model** | AWS secures cloud, you secure configs/data/apps |
 
 #### 5.2 **AI-Specific Security/Privacy Concerns**
 
@@ -323,7 +323,7 @@
 | 3 | **Agents for Amazon Bedrock** | Tool-using multi-step agents |
 | 4 | **Bedrock Knowledge Bases** | Managed RAG building blocks |
 | 5 | **Amazon Q** | GenAI assistant for work/dev/AWS contexts |
-| 6 | **Amazon SageMaker** | Build/train/deploy ML; MLOps capabilities |
+| 6 | **Amazon SageMaker** | Build/train/deploy ML, MLOps capabilities |
 | 7 | **SageMaker JumpStart** | Pre-trained models/templates to start fast |
 | 8 | **SageMaker Data Wrangler** | Data prep/EDA |
 | 9 | **SageMaker Feature Store** | Consistent feature management |
@@ -354,7 +354,7 @@
 
 **Blog:** [Ntombizakhona Mabaso](https://dev.to/ntombizakhona)
 <br>
-**Article Link:** [technologies & Concepts]()
+**Article Link:** [Technologies And Concepts](https://dev.to/aws-builders/technologies-and-concepts-cheat-sheet-for-ai-practitioner-aif-c01-17ib)
 <br>
 Originally Published by [Ntombizakhona Mabaso](https://dev.to/ntombizakhona)
 <br>
