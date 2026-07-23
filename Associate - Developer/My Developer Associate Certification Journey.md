@@ -132,7 +132,7 @@ An AWS Certified Developer.
 
 **Blog:** [Ntombizakhona Mabaso](https://dev.to/ntombizakhona)
 <br>
-**Article Link:** []()
+**Article Link:** [My Developer Associate Certification Journey](https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l)
 <br>
 Originally Published by [Ntombizakhona Mabaso](https://dev.to/ntombizakhona)
 <br>
